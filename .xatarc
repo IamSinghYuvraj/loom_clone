@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Yuvraj-Singh-s-workspace-03ugib.ap-southeast-2.xata.sh/db/Snapcast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
