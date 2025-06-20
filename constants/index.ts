@@ -2,9 +2,9 @@ export const MAX_VIDEO_SIZE = 500 * 1024 * 1024;
 export const MAX_THUMBNAIL_SIZE = 10 * 1024 * 1024;
 
 export const BUNNY = {
-  STORAGE_BASE_URL: "https://storage.bunnycdn.com/jsm-snapcast",
-  CDN_URL: "https://jsm-snapcast.b-cdn.net",
-  TRANSCRIPT_URL: "https://vz-5699787f-900.b-cdn.net",
+  STORAGE_BASE_URL: "https://storage.bunnycdn.com/yuvraj-snapcast",
+  CDN_URL: "https://Yuvraj-snapcast.b-cdn.net",
+  TRANSCRIPT_URL: "https://vz-bdc3b841-ef6.b-cdn.net",
   EMBED_URL: "https://iframe.mediadelivery.net/embed",
   STREAM_BASE_URL: "https://video.bunnycdn.com/library",
 };
