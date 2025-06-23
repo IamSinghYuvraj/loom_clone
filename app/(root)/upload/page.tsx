@@ -7,8 +7,7 @@ import {
   saveVideoDetails,
 } from "@/lib/actions/video";
 import { useRouter } from "next/navigation";
-import FormField from "@/components/FormField";
-import FileInput from "@/components/FileInput";
+import { FileInput, FormField } from "@/components";
 import { useFileInput } from "@/lib/hooks/useFileInput";
 import { MAX_THUMBNAIL_SIZE, MAX_VIDEO_SIZE } from "@/constants";
 
