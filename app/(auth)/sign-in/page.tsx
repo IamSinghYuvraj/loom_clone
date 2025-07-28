@@ -41,15 +41,15 @@ const Page = () => {
             </p>
             <article>
               <Image
-                src="/assets/images/jason.png"
+                src="/assets/images/bhavesh.jpg"
                 alt="jason"
                 width={64}
                 height={64}
                 className="rounded-full"
               />
               <div>
-                <h2>Jason Rivera</h2>
-                <p>Product Designer, NovaByte</p>
+                <h2>Bhavesh Singh</h2>
+                <p>Software Developer, Schbang</p>
               </div>
             </article>
           </section>
